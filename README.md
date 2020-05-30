@@ -35,10 +35,13 @@ https://competitions.codalab.org/competitions/20011
 
 ### Pretrained Weights
 BERT Pretrained Weights:
+
 https://storage.googleapis.com/bert_models/2018_10_18/cased_L-12_H-768_A-12.zip
 https://storage.googleapis.com/bert_models/2018_10_18/cased_L-24_H-1024_A-16.zip
 
+
 XLNet pretrained Weights:
+
 https://storage.googleapis.com/xlnet/released_models/cased_L-12_H-768_A-12.zip
 https://storage.googleapis.com/xlnet/released_models/cased_L-24_H-1024_A-16.zip
 
